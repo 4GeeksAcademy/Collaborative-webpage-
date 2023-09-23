@@ -1,3 +1,7 @@
 body{
     background: #BDBDBD;
 }
+/*Klaudine*/
+.stack {
+    display: flex;
+}
